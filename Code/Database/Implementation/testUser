@@ -1,0 +1,2 @@
+insert into User values (1, "Ben", "Ben1@xx.com", "123345",  100202103123, "123", "ServiceNow", "1", "UK");
+insert into User values (2, "Mike", "Mike1@xx.com", "1233456666",  221312322131, "12344", "ServiceNow", "1", "UK");

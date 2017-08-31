@@ -1,0 +1,2 @@
+insert into ProblemFix values (1, 'what is the result of 1+1', "1+1=2", 1, "2017-02-04", 1, "Executable");
+insert into ProblemFix values (2, 'what is the result of 1*1', "1*1=1", 2, "2017-02-04", 1, "Java");
